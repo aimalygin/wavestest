@@ -1,0 +1,16 @@
+build
+logs
+target
+/.idea/*
+!/.idea/runConfigurations
+/.idea/dataSources
+/.idea_modules
+/.classpath
+/.gradle
+/.project
+/.settings
+/RUNNING_PID
+
+/.vscode
+.DS_Store
+parser.iml
